@@ -1,7 +1,7 @@
 # app-migrator
 util help to convert app project into other types
 
-### 小程序助手使用方式
+### 使用方式
 
 * 下载 [Visual Studio Code](https://code.visualstudio.com/)，注意： Visual Studio Code 不等于 Visual Studio
 * 搜索插件 “小程序助手" 并安装
